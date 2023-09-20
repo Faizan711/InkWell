@@ -18,7 +18,7 @@ To get started with InkWell, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/inkwell.git
+   git clone https://github.com/Faizan711/Inkwell.git
    cd inkwell
 2. Install the necessary dependencies:
     ``````
